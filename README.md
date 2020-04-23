@@ -1,6 +1,6 @@
 # Shiny app example
 
-### Based from this repo: [template repo](https://github.com/bjoernbos/linear_model_selection)
+### Based from this tutorial: [tutorial](https://www.bjoern-bos.de/post/learn-how-to-dockerize-a-shinyapp-in-7-steps/)
 
 
 ## 1) Fist download the docker image:
