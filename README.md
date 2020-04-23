@@ -1,5 +1,8 @@
 # Shiny app example
 
+### Based from this repo: [template repo](https://github.com/bjoernbos/linear_model_selection)
+
+
 ## 1) Fist download the docker image:
 
 ```{r}
